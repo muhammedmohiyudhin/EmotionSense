@@ -1,0 +1,11 @@
+Test Case ID,Module,Input,Expected Output,Actual Output,Status
+TC01,UI,I am very happy today,joy,joy,Pass
+TC02,UI,I feel very sad and lonely,sadness,sadness,Pass
+TC03,UI,This service is terrible and frustrating,anger,anger,Pass
+TC04,UI,I love my family very much,love,love,Pass
+TC05,UI,I am scared of the dark,fear,fear,Pass
+TC06,UI,Wow I did not expect this at all,surprise,surprise,Pass
+TC07,UI,I am happy but also nervous,joy,joy,Pass
+TC08,UI,I waited for hours and finally the result made me very happy,joy,joy,Pass
+TC09,UI,I hate how badly this product works,anger,anger,Pass
+TC10,UI,,Warning message,Warning message,Pass

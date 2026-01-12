@@ -1,0 +1,16 @@
+Project: EmotionSense – Emotion Detection from Text
+
+Model: BERT Transformer based classifier
+Accuracy: 95.7%
+
+Total Test Cases: 10
+Passed: 10
+Failed: 0
+
+Conclusion:
+The system accurately classifies emotions from textual input.
+The UI is responsive and user-friendly.
+Model performance is reliable for real-world usage.
+
+Tester: Moidu
+Date: 2026

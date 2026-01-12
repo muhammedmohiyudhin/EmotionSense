@@ -1,0 +1,12 @@
+Scenario ID,Description,Input Type,Expected Behavior,Priority
+TS01,Detect happy emotion,Positive sentence,Predict joy,High
+TS02,Detect sad emotion,Negative sentence,Predict sadness,High
+TS03,Detect angry emotion,Complaint sentence,Predict anger,High
+TS04,Detect fear emotion,Fear sentence,Predict fear,Medium
+TS05,Detect love emotion,Love sentence,Predict love,Medium
+TS06,Detect surprise emotion,Surprise sentence,Predict surprise,Medium
+TS07,Handle empty input,Blank input,Show warning message,Medium
+TS08,Handle long input,Paragraph text,Predict correct emotion,Low
+TS09,Handle mixed emotion,Mixed sentiment text,Detect dominant emotion,Low
+TS10,UI usability check,User interaction,Accept input and display result,Low
+
