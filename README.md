@@ -37,5 +37,7 @@ The project also provides a user-friendly web interface using Streamlit for real
 
 ---
 
-## Project Structure
+Note: Trained model file is not included due to GitHub size limits.
+Run train_model.py to generate it.
+
 
