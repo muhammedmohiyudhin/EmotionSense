@@ -37,6 +37,10 @@ The project also provides a user-friendly web interface using Streamlit for real
 
 ---
 
+## 🎥 Demo Video
+[Watch the demo](emotion_sense_demo_video.mp4)
+
+---
 Note: Trained model file is not included due to GitHub size limits.
 Run train_model.py to generate it.
 
